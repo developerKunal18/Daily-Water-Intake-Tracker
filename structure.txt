@@ -1,0 +1,27 @@
+Features
+- Set a daily water intake goal.
+- Record water consumption in millilitres.
+- View daily water intake.
+- Calculate remaining water intake.
+- Track daily goal completion.
+- View weekly and monthly reports.
+- Maintain water consumption history.
+- Search records by date.
+- Display average daily water consumption.
+
+1. Project structure
+Daily-Water-Intake-Tracker/
+│
+├── main.py
+├── config.py
+├── storage.py
+├── utils.py
+├── water_manager.py
+├── report_manager.py
+├── requirements.txt
+├── .gitignore
+├── README.md
+│
+└── data/
+    ├── water_records.json
+    └── settings.json
